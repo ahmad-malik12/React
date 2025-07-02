@@ -1,0 +1,30 @@
+.login-container {
+  max-width: 300px;
+  margin: 100px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.login-title {
+  margin-bottom: 20px;
+}
+
+.login-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.login-button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
